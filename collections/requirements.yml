@@ -15,8 +15,8 @@ collections:
     version: 1.0.2
   - name: redhat.rhv
     version: 1.6.2
-  # - name: shadowman.reports
-  #   source: https://towerhub.shadowman.dev/api/galaxy/content/published/
+  - name: shadowman.reports
+    source: https://github.com/michaelford85/shadowman.reports.git
 
 
   
