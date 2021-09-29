@@ -16,7 +16,7 @@ collections:
   - name: redhat.rhv
     version: 1.6.2
   - name: shadowman.reports
-    source: https://github.com/michaelford85/shadowman.reports.git
+    src: https://github.com/michaelford85/shadowman.reports.git
 
 
   
